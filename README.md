@@ -4,23 +4,24 @@ Saya membuat sebuah aplikasi web simulasi bernama AdoptMe. Web ini adalah platfo
 
 Screen Shot:
 Login:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21e89738-bfef-433f-aea2-28a3848fd9ad" />
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/adc33f60-59cb-42a2-b144-01b6fbdabc55" />
+
 
 Navigasi:
-<img width="1907" height="95" alt="image" src="https://github.com/user-attachments/assets/1b21ae4f-8ae3-4e6c-86ae-ca159b1947a6" />
-<img width="1919" height="91" alt="image" src="https://github.com/user-attachments/assets/cc3073cb-5773-4201-95ce-d4df8d1776bd" />
+<img width="1910" height="87" alt="image" src="https://github.com/user-attachments/assets/6601a789-a3b6-477e-873f-50ca528ee52b" />
+<img width="1906" height="89" alt="image" src="https://github.com/user-attachments/assets/540280c3-abe8-4c84-bbf7-7cfd7e08a930" />
 
 Dashboard:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2780c2ee-3210-44fc-85d7-64b98d8c77ef" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49aeeb71-b036-4294-963d-88163ee72c06" />
+<img width="1898" height="674" alt="image" src="https://github.com/user-attachments/assets/64fec283-65fb-402f-8599-c8808d5b91d5" />
+<img width="1919" height="451" alt="image" src="https://github.com/user-attachments/assets/0169fb58-d265-45b1-b735-bb67ae0a9a68" />
 
 Pengelolaan:
-<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/37bd973f-213c-4f82-9d99-634d0e02f22e" />
-<img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/cdbd6614-46ed-4e59-91af-ff029abc3e7f" />
+<img width="1901" height="725" alt="image" src="https://github.com/user-attachments/assets/26adfefe-ba4b-496f-b7e8-7068719b4ada" />
+<img width="1902" height="726" alt="image" src="https://github.com/user-attachments/assets/a23f5127-5519-430f-8947-42048a0ab4d0" />
 
 Profile:
-<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/2b0d7634-f6a2-4dbc-9b49-1be78b18efdb" />
-<img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/55fa2ec8-cd11-4910-9bda-de01ce7765e4" />
+<img width="1904" height="615" alt="image" src="https://github.com/user-attachments/assets/4f5acb50-cbd6-467a-ba85-c35e77626306" />
+<img width="1904" height="609" alt="image" src="https://github.com/user-attachments/assets/b5f0ba48-cc66-4fcc-9813-d88f4174f041" />
 
 Footer:
-<img width="1919" height="347" alt="image" src="https://github.com/user-attachments/assets/9a1a156c-3393-4e38-ac05-229442645311" />
+<img width="1901" height="340" alt="image" src="https://github.com/user-attachments/assets/6f8102a7-db15-4178-a6b6-05acad0bf9d6" />
