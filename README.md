@@ -17,9 +17,10 @@ Dashboard:
 
 <img width="1919" height="451" alt="image" src="https://github.com/user-attachments/assets/0169fb58-d265-45b1-b735-bb67ae0a9a68" />
 
-Pengelolaan:
+Pengelolaan pelanggan:
 <img width="1901" height="725" alt="image" src="https://github.com/user-attachments/assets/26adfefe-ba4b-496f-b7e8-7068719b4ada" />
 
+Pengelolaan Admin:
 <img width="1902" height="726" alt="image" src="https://github.com/user-attachments/assets/a23f5127-5519-430f-8947-42048a0ab4d0" />
 
 Profile:
